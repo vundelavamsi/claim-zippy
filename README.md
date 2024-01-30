@@ -16,8 +16,8 @@ This project is a simple Task Manager application with a React frontend and Expr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
-   cd task-manager-app
+   git clone https://github.com/vundelavamsi/claim-zippy.git
+   cd claim-zippy
    ```
 
    ### Install dependencies for both frontend and backend
