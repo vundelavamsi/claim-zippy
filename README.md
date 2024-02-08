@@ -45,7 +45,7 @@ This project is a simple Task Manager application with a React frontend and Expr
     - Open a terminal in the backend directory.
     - Run the following command:
       ```bash
-      npm start
+      node index.js
       ```
       The backend will start on http://localhost:3001.
 
